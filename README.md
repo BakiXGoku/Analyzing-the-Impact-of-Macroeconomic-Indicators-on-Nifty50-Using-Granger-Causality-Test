@@ -1,4 +1,4 @@
-# Analyzing the Impact of Macroeconomic Indicators on Nifty50 Using Granger Causality
+# **Analyzing the Impact of Macroeconomic Indicators on Nifty50 Using Granger Causality**
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
